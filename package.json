@@ -1,7 +1,8 @@
 {
-  "name": "sprint-react-web-components",
+  "name": "react-web-components-sprint",
   "version": "1.0.0",
-  "description": "sprint-react-web-components React component",
+  "description":
+    "Common React components used on Sprint web and digital properties.",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": ["css", "es", "lib", "umd"],
