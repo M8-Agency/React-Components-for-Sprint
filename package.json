@@ -1,6 +1,6 @@
 {
   "name": "react-web-components-sprint",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description":
     "Common React components used on Sprint web and digital properties.",
   "main": "lib/index.js",
